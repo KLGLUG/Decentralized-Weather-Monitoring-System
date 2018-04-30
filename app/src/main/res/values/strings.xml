@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Home Air Monitor</string>
+    <string name="title_activity_hum_for_admin">HumForAdmin</string>
+</resources>

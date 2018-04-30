@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "308268266638",
+    "firebase_url": "https://smarthomeairmonitor.firebaseio.com",
+    "project_id": "smarthomeairmonitor",
+    "storage_bucket": "smarthomeairmonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308268266638:android:94cc5794abbc303d",
+        "android_client_info": {
+          "package_name": "com.example.sowmya.smarthomeairmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308268266638-stipb64rtdc4urppavh2r8fni4f1a1pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sowmya.smarthomeairmonitor",
+            "certificate_hash": "fd637d47d24c26157e2d50afa95868c7f10f3e67"
+          }
+        },
+        {
+          "client_id": "308268266638-cvts6a2bviqfo2vtiaqoq6bq7je1e1a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB862YrLD1D-_OF0-Yqya36BbtDmSnSuuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308268266638-cvts6a2bviqfo2vtiaqoq6bq7je1e1a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
